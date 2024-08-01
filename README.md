@@ -1,1 +1,0 @@
-# Lista-sequencial-em-c
